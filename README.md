@@ -1,2 +1,2 @@
 # big-agora
-about comupter
+> This is about computers and programming.
